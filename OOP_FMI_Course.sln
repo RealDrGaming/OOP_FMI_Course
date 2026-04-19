@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP_FMI_Course", "OOP_FMI_Course\OOP_FMI_Course.vcxproj", "{18948F11-5D19-4F2D-AC85-C569CA813C0A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week05", "Week05\Week05.vcxproj", "{18948F11-5D19-4F2D-AC85-C569CA813C0A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week07", "Week07\Week07.vcxproj", "{8BA1CAFF-4AA8-4BED-9E49-7354E814854C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +20,13 @@ Global
 		{18948F11-5D19-4F2D-AC85-C569CA813C0A}.Release|Win32.Build.0 = Release|Win32
 		{18948F11-5D19-4F2D-AC85-C569CA813C0A}.Release|x64.ActiveCfg = Release|x64
 		{18948F11-5D19-4F2D-AC85-C569CA813C0A}.Release|x64.Build.0 = Release|x64
+		{8BA1CAFF-4AA8-4BED-9E49-7354E814854C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BA1CAFF-4AA8-4BED-9E49-7354E814854C}.Debug|Win32.Build.0 = Debug|Win32
+		{8BA1CAFF-4AA8-4BED-9E49-7354E814854C}.Debug|x64.ActiveCfg = Debug|x64
+		{8BA1CAFF-4AA8-4BED-9E49-7354E814854C}.Debug|x64.Build.0 = Debug|x64
+		{8BA1CAFF-4AA8-4BED-9E49-7354E814854C}.Release|Win32.ActiveCfg = Release|Win32
+		{8BA1CAFF-4AA8-4BED-9E49-7354E814854C}.Release|Win32.Build.0 = Release|Win32
+		{8BA1CAFF-4AA8-4BED-9E49-7354E814854C}.Release|x64.ActiveCfg = Release|x64
+		{8BA1CAFF-4AA8-4BED-9E49-7354E814854C}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal

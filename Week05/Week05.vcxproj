@@ -154,7 +154,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="OOP_FMI_Course.cpp" />
+    <ClCompile Include="Army.cpp" />
+    <ClCompile Include="Soldier.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Army.h" />
+    <ClInclude Include="Soldier.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
